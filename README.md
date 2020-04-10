@@ -1,9 +1,6 @@
 # effective-potato
 first webpage
 
-
-<link href="https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap" rel="stylesheet">
-
   
 
   <!-- css starts here-->
